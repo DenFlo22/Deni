@@ -1,0 +1,54 @@
+@font-face{
+	font-family: BerlinSansFBDemi;
+	src:url(../fonts/BerlinSansFBDemi.ttf);
+}
+header{
+	background-image: url(../img/fondo.jpg);
+	margin: 0px;
+	padding-bottom: 10px;
+	padding-top: 25px;
+	text-align: center;
+}
+h1{
+	font-family: Chiller;   
+	color: white;
+	font-size: 125px;
+	margin: 25px;
+	list-style-type: none;
+}
+li a:hover{
+	background-color: #01AAC1;
+}
+li a{
+	text-decoration: none;
+}
+a{
+	color: pink;
+}
+section{
+	background-color: black;
+	font-family: BerlinSansFBDemi;
+	color: white;
+	padding-top: 15px;
+	text-align: center;
+	padding-right: 60px;
+	padding-left: 60px;
+	padding-bottom: 50px;
+}
+p{
+	font-size: 45px;
+	text-align: justify;
+}
+#lista1{
+	color: green; 
+	font-size: 50px;
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+}
+footer{
+	text-align: center;
+	padding: 10px;
+	background-image: url(../img/fondo.jpg);
+}
